@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/carcasanchez/Puzzle-Bobble/master/Photos_Images/CarlosC.jpg)
 
-Hi!. I'm the former leader of the DuckDev team. In our latest project, A Link Between Ages, I have done a dual role as the team leader, organizing and focusing the team to end the game development as right as posible; and working as a gameplay programmer.   
+Hi! I'm the former leader of the DuckDev team. In our latest project, A Link Between Ages, I have done a dual role as the team leader, organizing and focusing the team to end the game development as right as posible; and working as a gameplay programmer.   
  Is in this last half where I can show the most part of my contribution to the game. 
  
 ## Player movement 
