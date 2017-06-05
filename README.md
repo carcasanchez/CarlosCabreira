@@ -2,8 +2,9 @@
  
  ## Player movement
    
-    I have done all the basic player movement: displacement, attack and all the special abilities.
-    ![](https://i.gyazo.com/4fc95e1e85c4c1e5a1b0f88f26d8fb2e.gif)   
+    I have done all the basic player movement: displacement, attack and all the special abilities.   
+    
+  ![](https://i.gyazo.com/4fc95e1e85c4c1e5a1b0f88f26d8fb2e.gif)   
  
    * Player movement
    * Collisions System
