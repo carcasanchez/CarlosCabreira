@@ -39,7 +39,9 @@ Hi! I'm the former leader of the DuckDev team. In our latest project, A Link Bet
   ![](https://i.gyazo.com/4065f4493c82428d3fdeb3aa9f787b4a.gif)   
   
   
-  
+## Save and Load system
+
+  The game stores data in a xml file in a folder on AppData every time the map changes, and you can load it at any time to recover the last gam state (life, current map, items...)
   
 ## Event tracker
  
