@@ -27,7 +27,7 @@ Hi! I'm the former leader of the DuckDev team. In our latest project, A Link Bet
   
   ![](https://i.gyazo.com/4065f4493c82428d3fdeb3aa9f787b4a.gif)   
   
-  ## Event tracker
+## Event tracker
  
   ![](https://i.gyazo.com/306cbb97656816f4a6bff036951851f6.gif)    
    Also, I have created the Quest Manager System that we used to track events inside the game. You can check [its documentation page](https://carcasanchez.github.io/QuestManager/) to see how it works. It includes a step by step tutorial if you want to apply it to your project.
